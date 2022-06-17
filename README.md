@@ -1,3 +1,5 @@
+# This is a personal project built on React and Firebase to learn about Frondend development
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
